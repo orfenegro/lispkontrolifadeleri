@@ -1,3 +1,5 @@
+(defun ornek ()
+
 (setq n(getint "\nBir sayı giriniz: "))
 ;Kullanıcıdan bir sayı gşrmesini istiyoruz ve girilen sayıyı n değişkenine setq fonksiyonu ile atıyoruz.;
 
@@ -14,3 +16,6 @@
 
 (alert "Girilen sayı tek sayıdır")
 ;if fonksiyonu eğer false yani yanlışsa ikinci alert fonksiyonu çalışır.
+
+)
+)
